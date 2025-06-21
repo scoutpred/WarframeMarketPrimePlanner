@@ -20,6 +20,8 @@ Future Features include
 
 -Faster fetching of data, especially those in bulk.
 
--Some QoL. Could use your suggestions! :)
+-Some QoL. Could use your suggestions or just fork it out. Be sure to credit me on that. That's all I ask for! :)
 
 That's about it. This is a hobby project made in times of my unemployment to improve my portfolio.
+
+WF.Market API documentation: https://warframe.market/api_docs
